@@ -44,4 +44,5 @@ while (count < 100000)
     Console.WriteLine("*");
 
     count++;
+    //System.Threading.Thread.Sleep(1);  если надо с задержкой
 }
